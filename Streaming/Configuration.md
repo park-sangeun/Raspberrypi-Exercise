@@ -9,3 +9,4 @@
 2-2. sudo raspi-config 명령어 입력 > Interface Options > Camera > Yes >sudo reboot </br>
 3. ifconfig로 라즈베리파이 ip 찾기 </br>
 4. 코드 실행</br>
+참고자료: https://stickode.tistory.com/825 </br>
