@@ -2,7 +2,8 @@
 >카메라를 이용한 스트리밍
 
 ## infrared camera
-야간용 적외선 카메라를 이용해 영상 촬영 후 실시간 스트리밍으로 서버에 전송한다. </br>
+야간용 적외선 카메라를 이용해 영상 촬영 후 실시간 스트리밍으로 서버에 전송 </br>
+통신방법: http 통신</br>
 1. 카메라 연결 및 전원 연결 </br>
 2. 옵션 설정 </br>
 2-1. Preferences> Raspberry Pi Configuration 접속 > Camera enable </br>
